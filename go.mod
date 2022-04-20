@@ -1,4 +1,4 @@
-module github.com/swaggo/gin-swagger
+module github.com/gentwolf-shen/gin-swagger
 
 go 1.15
 
